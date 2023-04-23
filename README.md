@@ -1,2 +1,2 @@
-# Multilevel-Queue-Scheduling-Algorithm
+# Multilevel Queue Scheduling Algorithm
 Operating System Project
